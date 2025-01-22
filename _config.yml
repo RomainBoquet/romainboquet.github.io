@@ -52,8 +52,7 @@ content:
 
       - layout: top-middle
         title: Emotion Island (2022-2024)
-        link: https://www.youtube.com/watch?v=OxP9EDUxCoQ
-
+        link : [Regarder sur YouTube](https://www.youtube.com/watch?v=OxP9EDUxCoQ)
         description: |
           Initié par une sophrologue et rassemblant 12 étudiants, ce projet visait à concevoir un jeu vidéo destiné à aider les enfants dans la gestion de leurs émotions.
           J'ai contribué à la programmation du jeu en utilisant le moteur de développement Godot, spécialement conçu pour la création de jeux vidéo.
