@@ -73,7 +73,7 @@ content:
           Lancé par une sophrologue, j'ai pu particier à ce projet regroupant 12 étudiants.
           L'objectif était de créer un jeu vidéo pour aider les enfants dans la gestion de leurs émotions.
 
-        image: images/emotion-island.jpg # Ajout de l'image ici
+        image: images/emotion-island.png # Ajout de l'image ici
           
 
   - title: Experience # Title for the section
