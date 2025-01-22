@@ -19,7 +19,7 @@ github_username: RomainBoquet
 linkedin_username: romain-boquet
 
 # About Section
-# about_title: About Me
+about_title: Présentation
 about_profile_image: images/img.jpg
 about_content: |
   Je m'appelle Romain Boquet, j'ai 21 ans, et je suis en voie d'obtenir mon diplôme de l'École Centrale Lille en septembre 2025.
@@ -38,7 +38,7 @@ content:
           L'objectif était de développer un agent capable d'apprendre à jouer de manière autonome en maximisant ses récompenses, comme éviter les obstacles et manger les fruits.
           À travers ce projet, j'ai utilisé des algorithmes de reinforcement learning pour améliorer les performances du robot au fil du temps et d'optimiser ses stratégies de jeu.
           
-          ![Snake-RL](images/snake-rl.jpg){: .project-image }
+          ![Snake-RL](images/snake-RL.jpg){: .project-image }
 
       - layout: top-middle
         title: Computer vision pour les voitures autonomes (2024)
