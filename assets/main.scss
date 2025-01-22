@@ -6,8 +6,10 @@
 
 
 .project-image {
+    display: block; /* Nécessaire pour appliquer margin auto */
+    margin: 10px auto; /* Centre horizontalement et ajoute un espacement en haut */
     max-width: 300px;
     height: auto;
-    margin-top: 10px;
-    // border-radius: 5px; /* Optionnel, pour arrondir les coins */
+    border-radius: 5px; /* Optionnel, pour arrondir les coins */
+    text-align: center; /* Non nécessaire ici mais peut aider si un conteneur est impliqué */
 }
