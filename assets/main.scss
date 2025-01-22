@@ -3,3 +3,11 @@
 ---
 
 @import 'modern-resume-theme';
+
+
+.project-image {
+    max-width: 300px;
+    height: auto;
+    margin-top: 10px;
+    // border-radius: 5px; /* Optionnel, pour arrondir les coins */
+}

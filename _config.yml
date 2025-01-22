@@ -53,46 +53,31 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Mes projets # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Mes projets
+    layout: list
     content:
-
       - layout: top-middle
-        title: Snake RL
+        title: Snake RL (2025)
         link: github.com/RomainBoquet/snake-RL
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          descriptionnn
-          ![Emotion Island](images/emotion-island.jpg)
+        description: |
+          description
 
       - layout: top-middle
-        title: Emotion Island
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
+        title: Computer vision pour les voitures autonomes
+        link: github.com/RomainBoquet/snake-RL
+        description: |
+          Ce projet a pour but de faire de la segmentation d'images sur le dataset Cityscapes.
+          L'objectif est d'entraîner le modèle Bisenet, pour faire de la segmentation d'images en temps réel.
+
+
+      - layout: top-middle
+        title: Emotion Island (2022-2024)
+        description: |
           Lancé par une sophrologue, j'ai pu particier à ce projet regroupant 12 étudiants.
           L'objectif était de créer un jeu vidéo pour aider les enfants dans la gestion de leurs émotions.
-
-        image: images/emotion-island.jpg # Ajout de l'image ici
           
+          ![Emotion Island](images/emotion-island.jpg){: .project-image }
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
