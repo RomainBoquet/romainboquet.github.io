@@ -68,7 +68,7 @@ content:
     content:
       - layout: left
         title: Sanofi
-        link: link.com
+        # link: link.com
         sub_title: Alternant Data Scientist
         caption: Septembre 2024 - Actuellement
         quote: >
