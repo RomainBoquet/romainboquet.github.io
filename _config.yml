@@ -37,10 +37,10 @@ content:
 
       - layout: top-middle
         title: Computer vision pour les voitures autonomes
-        link: github.com/RomainBoquet/snake-RL
+        link: github.com/RomainBoquet/
         description: |
           Ce projet a pour but de faire de la segmentation d'images sur le dataset Cityscapes.
-          
+
           L'objectif est d'entraîner le modèle Bisenet, pour faire de la segmentation d'images en temps réel.
 
 
@@ -51,7 +51,6 @@ content:
 
           L'objectif était de créer un jeu vidéo pour aider les enfants dans la gestion de leurs émotions.
           
-          ![Emotion Island](images/emotion-island.jpg){: .project-image }
 
 
   - title: Experience
@@ -63,10 +62,9 @@ content:
         sub_title: Alternant Data Scientist
         caption: Septembre 2024 - Actuellement
         quote: >
-          Poursuivre les miracles de la science pour améliorer la vie des gens.
+         "Poursuivre les miracles de la science pour améliorer la vie des gens."
         description: |
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+          Description
 
   - title: Formation
     layout: list
