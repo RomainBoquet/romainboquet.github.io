@@ -9,7 +9,7 @@ version: 2
 name: Romain Boquet
 title: Data Scientist
 email: romain.boquett@gmail.com
-website: www.github.com/RomainBoquet
+# website: www.github.com/RomainBoquet
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -52,8 +52,10 @@ content:
 
       - layout: top-middle
         title: Emotion Island (2022-2024)
+        link: https://www.youtube.com/watch?v=OxP9EDUxCoQ
+
         description: |
-          Ce projet, initié par une sophrologue et rassemblant 12 étudiants, visait à concevoir un jeu vidéo destiné à aider les enfants dans la gestion de leurs émotions.
+          Initié par une sophrologue et rassemblant 12 étudiants, ce projet visait à concevoir un jeu vidéo destiné à aider les enfants dans la gestion de leurs émotions.
           J'ai contribué à la programmation du jeu en utilisant le moteur de développement Godot, spécialement conçu pour la création de jeux vidéo.
           Pour renforcer l'approche sophrologique, j'ai réalisé des vidéos explicatives et interactives, permettant aux enfants de découvrir les bases de la sophrologie et de s'exercer à travers des activités adaptées.
           Cette expérience m'a permis de confirmer mon intérêt pour l'informatique et d'orienter mes ambitions professionnelles dans ce domaine.
