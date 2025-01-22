@@ -36,16 +36,18 @@ content:
           Le projet consiste à appliquer l'apprentissage par renforcement (Reinforcement Learning) pour entraîner un robot à jouer au jeu vidéo Snake.
           L'objectif était de développer un agent capable d'apprendre à jouer de manière autonome en maximisant ses récompenses, comme éviter les obstacles et manger les fruits.
           À travers ce projet, j'ai utilisé des algorithmes de reinforcement learning pour améliorer les performances du robot au fil du temps et d'optimiser ses stratégies de jeu.
+          
+          ![Snake-RL](images/snake-rl.jpg){: .project-image }
 
       - layout: top-middle
-        title: Computer vision pour les voitures autonomes
+        title: Computer vision pour les voitures autonomes (2024)
         link: github.com/RomainBoquet/
         description: |
           Dans le cadre d’un projet axé sur les voitures autonomes, nous avons travaillé sur la segmentation d’images, une technique permettant de classifier chaque pixel d’une image en différentes catégories (routes, voitures, piétons, etc.).
           Nous avons utilisé le dataset Cityscapes, qui contient des images de scènes urbaines, ainsi que le modèle BiSeNet, spécialement conçu pour la segmentation d’images en temps réel.
           Par la suite, nous avons adapté le modèle pour qu’il puisse être entraîné sur des images issues d’un dataset synthétique, GTA5, afin d’exploiter des données variées et enrichir les capacités du modèle.
 
-          ![Bisenet](images/bisenet-test.jpg){: .project-image }
+          ![Cityscapes](images/cityscapes.jpg){: .project-image }
 
 
       - layout: top-middle
