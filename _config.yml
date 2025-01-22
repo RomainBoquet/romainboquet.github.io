@@ -56,6 +56,24 @@ content:
   - title: Mes projets # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: top-middle
+        title: Snake RL
+        link: github.com/RomainBoquet/snake-RL
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          descriptionnn
+          ![Emotion Island](images/emotion-island.jpg)
+
       - layout: top-middle
         title: Emotion Island
         # link: github.com/sproogen
